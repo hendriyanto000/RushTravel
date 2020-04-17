@@ -1,0 +1,8 @@
+{
+    "Host": "localhost",
+    "User": "postgres",
+    "Password": "admin",
+    "Database": "rush-travel",
+    "Port": 5432,
+    "JWTSignature": "topsecret"
+}
